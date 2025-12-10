@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Test Documentation",
   "colors": {
-    "primary": "#ff0000",
+    "primary": "#f25533",
     "light": "#F8F5F0",
     "dark": "#161618"
   },
@@ -84,6 +84,12 @@
   },
   "contextual": {
     "options": ["copy", "view", "chatgpt", "claude", "perplexity", "mcp", "cursor", "vscode"]
+  },
+  "fonts": {
+    "family": "STKBureau-Sans",
+    "source": "/fonts/stkbureau-sans-book.woff2",
+    "format": "woff2",
+    "weight": 400
   },
   "footer": {
     "socials": {
